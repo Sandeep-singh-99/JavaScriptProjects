@@ -1,3 +1,5 @@
+// array left rotate
+
 function leftRotate(arr, d, n)
 {
     for(let i = 0; i < d; i++)
