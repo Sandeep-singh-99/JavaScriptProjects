@@ -8,7 +8,6 @@ function Factorial(n) {
     }
 
     console.log(`Factorial of ${n} is`,fact);
-    
 }
 
 Factorial(2)
