@@ -26,7 +26,7 @@ class BankAccount {
 	}
 }
 
-let myBankAccount = new BankAccount("123456", "John Doe", 1000);
+let myBankAccount = new BankAccount("123456", "Sandeep Singh", 1000);
 myBankAccount.deposit(500); 
 // Output: Account Number: 123456 Account Holder Name: 
 //John Doe Balance: 150
