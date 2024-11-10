@@ -12,4 +12,5 @@ const a = 20
 const b = 30
 console.log(a + b);
 
-log('Hello World');
+// console.dir
+console.dir('Hello World');
