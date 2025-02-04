@@ -12,5 +12,7 @@ const a = 20
 const b = 30
 console.log(a + b);
 
+// console.error
+
 // console.dir
 console.dir('Hello World');
