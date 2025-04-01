@@ -12,6 +12,5 @@ function printMirroredRightTriangle(height) {
         console.log(row);
     }
 }
-
 // Example usage
 printMirroredRightTriangle(5);
