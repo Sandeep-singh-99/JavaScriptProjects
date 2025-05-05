@@ -11,7 +11,8 @@ console.log(10 + 20);
 const a = 20
 const b = 30
 console.log(a + b);
-
+// console.log
+console.log('Hello World');
 // console.error
 
 // console.dir
