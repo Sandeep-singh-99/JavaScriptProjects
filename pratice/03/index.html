@@ -1,0 +1,21 @@
+ <!-- javascript can change html content -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>What can javascript do?</h2>
+    <p id="demo">Javascipt can change HTML content</p>
+
+    <button onclick="myFunction()">Click ME</button>
+</body>
+<script>
+    function myFunction() {
+        document.getElementById("demo").innerHTML = "Hello JavaScript!";
+    }
+</script>
+</html>
