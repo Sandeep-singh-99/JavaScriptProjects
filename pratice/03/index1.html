@@ -1,0 +1,18 @@
+<!-- Javascript can change HTML attributes -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h2>What can javascript DO?</h2>
+    <p>
+        In this case javascript change the value of the src (source) attributes of an image.
+    </p>
+    <button onclick="document.getElementById('myImage').src='./assets/aa.jpg'">change image</button>
+    <img id="myImage" src="./assets/aa.jpg" alt="Placeholder Image">
+    <button onclick="document.getElementById('myImage').src='./assets/323.jpg'">change image</button>
+</body>
+</html>
