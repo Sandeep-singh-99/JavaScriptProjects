@@ -4,7 +4,6 @@ console.log("Hello World");
 console.log('Sandeep Singh');
 console.log('I am 24 years old');
 
-
 // add two no
 console.log(10 + 20);
 
