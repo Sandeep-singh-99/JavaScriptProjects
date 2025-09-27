@@ -11,8 +11,6 @@ console.log(z);
 z() 
 
 
-
-
 function createClosure() {
     const value = 6;
     function displayValue() {
